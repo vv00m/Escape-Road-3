@@ -13,7 +13,7 @@
   "Values": [
     {
       "m_Value": "production",
-      "m_IsReadOnly": false
+      "m_IsReadOnly": true
     },
     {
       "m_Value": "2.1.0",
@@ -41,11 +41,11 @@
     },
     {
       "m_Value": "com.unity.services.leaderboards;com.unity.services.core;com.unity.services.authentication",
-      "m_IsReadOnly": false
+      "m_IsReadOnly": true
     },
     {
       "m_Value": "production",
-      "m_IsReadOnly": false
+      "m_IsReadOnly": true
     }
   ]
 }
